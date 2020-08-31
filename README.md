@@ -10,6 +10,7 @@
 - A much better ability to do math than you might think considering the number of bullet points in this section (I promise)
 
 **Introduction**
+
 Hello!
 
 Thanks for checking out my budgeting spreadsheet. I've been slowly building up this Frankenstein's Monster of a spreadsheet ever since I was in college and I realized that just knowing how much money I had allocated for certain expenses wasn't enough - I also needed a rough idea of when money was coming in and when it was going out in order to know if things were A-OK, or if it was time to start selling bodily fluids. Whether you're just starting your budgeting journey or you've been doing it for years and just want some ideas, hopefully you find it useful. If you don't... well, it was free. You get what you pay for, right?
