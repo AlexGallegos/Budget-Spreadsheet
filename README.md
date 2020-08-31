@@ -26,8 +26,12 @@ You'll also find when you open it that it's full of dummy data, as if it's the y
 
 **Anything Else?**
 
-Hey, speaking of getting what you pay for earlier... it's now been a long time since I sold any bodily fluids, thankfully enough. This isn't anywhere close to my primary line of work, nor do I want it to be, which is why I'm not charging for it. But, if it made your life better and you decide you want to toss a couple monetary units in my direction, I'm not going to say "No" now am I? So if you are so inclined, feel free to toss a couple dollars into my virtual tip jar and <a href="#" target="_blank">do a thing</a>. If you want to. Or don't - your choice! This is one of those no-pressure scenarios you heard about. I just want to share this with people mostly. Thanks!
+Hey, speaking of getting what you pay for earlier... it's now been a long time since I sold any bodily fluids, thankfully enough. This isn't anywhere close to my primary line of work, nor do I want it to be, which is why I'm not charging for it. But, if it made your life better and you decide you want to toss a couple monetary units in my direction, I'm not going to say "No" now am I? So if you are so inclined, feel free to toss a couple dollars into my virtual tip jar and <a href="https://ko-fi.com/alexg" target="_blank">Buy me a Ko.fi</a>. If you want to. Or don't - your choice! This is one of those no-pressure scenarios you heard about. I just want to share this with people mostly. Thanks!
 
+**Changelog**
+
+Version 3.2 | 2020-08-30
+- Added a "How To Use This Sheet" tab with a very basic rundown of the functionality of the sheet
 
 ---
 
