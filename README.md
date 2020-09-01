@@ -31,8 +31,30 @@ Hey, speaking of getting what you pay for earlier... it's now been a long time s
 
 **Changelog**
 
+Version 3.3 | 2020-09-01
+- Fixed an issue with the filtering dropdowns in the Monthly Rundown
+
 Version 3.2 | 2020-08-30
+- Added more information to "How To Use..." tab along with a couple links
+
+Version 3.1 | 2020-08-05
+- Cleaned up spreadsheet for a general audience
 - Added a "How To Use This Sheet" tab with a very basic rundown of the functionality of the sheet
+- Added dummy data for new users to get a feel for the functionality of the sheet
+
+Version 3.0 | Early 2020
+- Friends asked for a version, added variables tab as a separate location for keeping track of all expenses
+- Reworked formulas for efficiency
+- Added named ranges in Excel
+- Added additional income sources, checking accounts, and savings accounts
+- Added basic notes to some cells as a guide for how to use the sheet
+
+Version 2.0 | 2011
+- Cleaned up the Monthly Rundown, added charts and graphs now that I was starting my career
+- Added financial tools like the Expense Tracker and the Loan Amortization Table
+
+Version 1.0 | 2007-2009
+- Project Start. Just for me, doesn't look nice, no variables, only a single page
 
 ---
 
